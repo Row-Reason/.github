@@ -7,10 +7,10 @@ here, not automatically to other repositories.
 
 - Track every work item in Linear. Read/reuse the matching issue or create it;
   keep scope, status, blockers and project relationships current. Link PRs.
-- Before creating an issue or project, discover, read and apply the appropriate
-  Linear template: **Work**, **Bug** or **Investigation** for issues; **Delivery**
-  for projects. Fill prompts, omit unused sections; report unavailable access or
-  templates as a blocker rather than using another tracker.
+- Before creating an issue or project, list the current templates available to
+  its target team, read the appropriate issue/project template, and apply it using
+  Linear's tools. Do not assume template names or a fixed list. Fill prompts,
+  omit unused sections, and report unavailable access/templates as a blocker.
 - Issues, comments and project updates lead with the outcome/current state and
   next action/decision. Use concise paragraphs and useful headings/lists. Preserve
   decisions/reasons, results with units/denominators/conditions, and uncertainties.
