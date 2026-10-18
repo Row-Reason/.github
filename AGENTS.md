@@ -7,9 +7,10 @@ here, not automatically to other repositories.
 
 - Track every work item in Linear. Read/reuse the matching issue or create it;
   keep scope, status, blockers and project relationships current. Link PRs.
-- Discover, read and apply Linear's **Work**, **Bug** or **Investigation** template
-  for new issues. Fill prompts, omit unused sections; report unavailable access
-  or templates as a blocker rather than using another tracker.
+- Before creating an issue or project, discover, read and apply the appropriate
+  Linear template: **Work**, **Bug** or **Investigation** for issues; **Delivery**
+  for projects. Fill prompts, omit unused sections; report unavailable access or
+  templates as a blocker rather than using another tracker.
 - Issues, comments and project updates lead with the outcome/current state and
   next action/decision. Use concise paragraphs and useful headings/lists. Preserve
   decisions/reasons, results with units/denominators/conditions, and uncertainties.
@@ -34,4 +35,4 @@ here, not automatically to other repositories.
 | Area | Official documentation |
 | --- | --- |
 | Organization profile | [GitHub organization profiles](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile), [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github) |
-| Tracking | [Linear issue templates](https://linear.app/docs/issue-templates), [Linear MCP](https://linear.app/docs/mcp) |
+| Tracking | [Linear issue templates](https://linear.app/docs/issue-templates), [project templates](https://linear.app/docs/project-templates), [Linear MCP](https://linear.app/docs/mcp) |
