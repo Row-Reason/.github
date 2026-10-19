@@ -22,6 +22,11 @@ here, not automatically to other repositories.
 - Run focused checks, update affected docs, and report passed/failed/not-run checks
   and limitations. Local validation does not prove live deployment or authorize it.
 
+## Staging and production
+
+- Nothing here is deployed; a merge updates the public organization profile.
+  Product staging and promotion are documented in the company infrastructure repository.
+
 ## Scope and checks
 
 - Keep `profile/README.md` and root README company copy/links consistent with the
