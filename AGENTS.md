@@ -20,7 +20,8 @@ here, not automatically to other repositories.
   upstream APIs over speculative abstractions. Consult relevant official docs and
   installed guides for the locked version; explain material deviations in Linear.
 - Run focused checks, update affected docs, and report passed/failed/not-run checks
-  and limitations. Local validation does not prove live deployment or authorize it.
+  and limitations. Local validation does not prove live deployment; the section below
+  says what a reviewed merge delivers and which live changes need explicit approval.
 
 ## Staging and production
 
